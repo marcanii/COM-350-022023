@@ -2,19 +2,19 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Cliente;
+use App\Models\Tarifa;
 use Illuminate\Http\Request;
 
-class ClienteController extends Controller
+class TarifaController extends Controller
 {
     /**
      * Display a listing of the resource.
      */
     public function index()
     {
-        $clientes = Cliente::all();
-        return view('cliente.index', [
-            'clientes' => $clientes
+        $tarifas = Tarifa::all();
+        return view('tarifa.index', [
+            'tarifas' => $tarifas
         ]);
     }
 
@@ -23,7 +23,7 @@ class ClienteController extends Controller
      */
     public function create()
     {
-        return view('cliente.create');
+        return view('tarifa.create');
     }
 
     /**
@@ -32,14 +32,14 @@ class ClienteController extends Controller
     public function store(Request $request)
     {
         $input = $request->all();
-        Cliente::create($input);
-        return redirect()->route('cliente.index')->with('success', 'Cliente creado exitosamente!');
+        Tarifa::create($input);
+        return redirect()->route('tarifa.index')->with('success', 'Tarifa creada exitosamente!');
     }
 
     /**
      * Display the specified resource.
      */
-    public function show(Cliente $cliente)
+    public function show(Tarifa $tarifa)
     {
         //
     }
@@ -47,31 +47,31 @@ class ClienteController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(Cliente $cliente)
+    public function edit(Tarifa $tarifa)
     {
-        return view('cliente.edit',[
-            'cliente' => $cliente
+        return view('tarifa.edit',[
+            'tarifa' => $tarifa
         ]);
     }
 
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, Cliente $cliente)
+    public function update(Request $request, Tarifa $tarifa)
     {
         $input = $request->all();
-        $cliente->update($input);
-        return  view('cliente.show', [
-            'cliente' => $cliente
+        $tarifa->update($input);
+        return  view('tarifa.show', [
+            'tarifa' => $tarifa
         ]);
     }
 
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Cliente $cliente)
+    public function destroy(Tarifa $tarifa)
     {
-        $cliente->delete();
-        return redirect()->route('cliente.index');
+        $tarifa->delete();
+        return redirect()->route('tarifa.index');
     }
 }

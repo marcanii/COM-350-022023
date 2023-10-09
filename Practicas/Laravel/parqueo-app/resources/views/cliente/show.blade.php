@@ -16,6 +16,6 @@
             <li>Telefono:{{$cliente->telefono}}</li>
             <li>fecha:{{$cliente->fecha_nacimiento}}</li>
     </ul>
-    
+    <a href="{{route('cliente.index')}}">Inicio</a>
 </body>
 </html>

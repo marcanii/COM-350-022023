@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ClienteController;
+use App\Http\Controllers\TarifaController;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,5 +16,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+    # porner la ruta de inicio tarifa index
     return view('welcome');
 });
+Route::resource('cliente',ClienteController::class);
+Route::resource('tarifa',TarifaController::class);
