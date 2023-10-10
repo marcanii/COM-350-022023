@@ -17,7 +17,8 @@ use App\Http\Controllers\TarifaController;
 
 Route::get('/', function () {
     # porner la ruta de inicio tarifa index
-    return view('welcome');
+    return view('inicial');
 });
 Route::resource('cliente',ClienteController::class);
+Route::get('tiposdocumento/{id}', [TiposDocumentoController::class,'listar'])->name('tiposdocumento.listar');
 Route::resource('tarifa',TarifaController::class);

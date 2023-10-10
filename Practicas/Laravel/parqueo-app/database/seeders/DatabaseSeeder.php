@@ -4,6 +4,8 @@ namespace Database\Seeders;
 
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Database\Seeders\ClienteSeeder;
+use Database\Seeders\TarifaSeeder;
 
 class DatabaseSeeder extends Seeder
 {
@@ -12,11 +14,11 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
-        // \App\Models\User::factory(10)->create();
-
-        // \App\Models\User::factory()->create([
-        //     'name' => 'Test User',
-        //     'email' => 'test@example.com',
-        // ]);
+        // llama a cliente seeder
+        $this->call(ClienteSeeder::class);
+        // llama a tarifa seeder
+        $this->call(TarifaSeeder::class);
+        // llama a tipos documento seeder
+        $this->call(TiposDocumentoSeeder::class);
     }
 }
