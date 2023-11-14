@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <label for="n">Introduce N:</label>
+        <input type="number" name="n" id="n">
+    </div>
+    <div>
+        <label for="p">Introduce P:</label>
+        <input type="number" name="p" id="p">
+    </div>
+    <div>
+        <label for="resultado">Posibles conbinaciones:</label>
+        <span id="resultado"></span>
+    </div>
+    <button onclick="calcular()">Calcular</button>
+
+    <script>
+        function calcular(){
+            let n = document.getElementById("n").value;
+            let p = document.getElementById("p").value;
+            let resultado = 0;
+            if(n > 0 && p > 0){
+                // calcular la combinatoria de n y p
+                resultado = factorial(n) / (factorial(p) * factorial(n-p));
+                document.getElementById("resultado").innerHTML = resultado;
+                console.log(resultado);
+            }else{
+                alert("Introduce valores positivos");
+            }
+        }
+
+        function factorial(n){
+            let resultado = 1;
+            for(let i = 1; i <= n; i++){
+                resultado *= i;
+            }
+            return resultado;
+        }
+    </script>
+</body>
+</html>
