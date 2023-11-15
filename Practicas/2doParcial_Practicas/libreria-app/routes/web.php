@@ -19,6 +19,3 @@ Route::get('/', function () {
 });
 
 Route::resource('libro',LibroController::class);
-
-// Route::get('libros', [LibroController::class,'index'])->name('libros.index');
-// Route::get('editar', [LibroController::class,'edit'])->name('libros.edit');
