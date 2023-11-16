@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Home</title>
+    <title>Document</title>
     <style>
         /* Estilos básicos del menú */
         .menu {
@@ -45,7 +43,6 @@
         }
     </style>
 </head>
-
 <body>
     <nav class="menu">
         <ul>
@@ -53,7 +50,14 @@
             <li><a href="{{ route('pelicula.create') }}">Agregar Pelicula</a></li>
         </ul>
     </nav>
-
+    <h2>Datos Actualizados:</h2>
+    <ul>
+        <li>Id: {{$pelicula->id}}</li>
+        <li>Titulo: {{$pelicula->titulo}}</li>
+        <li>Descripcion: {{$pelicula->descripcion}}</li>
+        <li>Duracion en min: {{$pelicula->duracion_min}}</li>
+        <li>Genero: {{$pelicula->genero}}</li>
+    </ul>
+    <a href="{{route('pelicula.index')}}">Inicio</a>
 </body>
-
 </html>
