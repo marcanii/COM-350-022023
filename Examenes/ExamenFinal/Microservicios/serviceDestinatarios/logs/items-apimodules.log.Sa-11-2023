@@ -1,0 +1,168 @@
+2023-11-04T19:50:10.447Z - info: Express server for Items listening on port3002
+2023-11-04T19:50:53.605Z - info: Express server for Items listening on port3002
+2023-11-04T20:00:31.346Z - info: GET: /api/v1/items
+2023-11-04T20:00:31.348Z - info: ConsultaSELECT * FROM item 
+2023-11-04T20:01:35.425Z - info: Express server for Items listening on port3002
+2023-11-04T20:01:46.804Z - info: GET: /api/v1/items
+2023-11-04T20:02:23.490Z - info: Express server for Items listening on port3002
+2023-11-04T20:02:27.000Z - info: Express server for Items listening on port3002
+2023-11-04T20:04:00.263Z - info: Express server for Items listening on port3002
+2023-11-04T20:14:43.452Z - info: Express server for Items listening on port3002
+2023-11-04T20:14:48.972Z - info: Express server for Items listening on port3002
+2023-11-04T20:16:00.748Z - info: Express server for Items listening on port3002
+2023-11-04T20:16:20.018Z - info: Express server for Items listening on port3002
+2023-11-04T20:16:45.713Z - info: Express server for Items listening on port3002
+2023-11-04T20:17:02.532Z - info: Express server for Items listening on port3002
+2023-11-04T20:18:50.697Z - info: Express server for Items listening on port3002
+2023-11-04T20:19:41.431Z - info: Express server for Items listening on port3002
+2023-11-04T20:20:36.646Z - info: Express server for Items listening on port3002
+2023-11-04T20:39:54.172Z - info: Express server for Items listening on port3002
+2023-11-04T20:54:59.065Z - info: Express server for Items listening on port3002
+2023-11-04T20:56:28.101Z - info: GET: /api/v1/items
+2023-11-04T20:56:28.103Z - info: ConsultaSELECT * FROM item 
+2023-11-04T20:56:28.250Z - info: Query items by undefined
+2023-11-04T20:57:36.634Z - info: Express server for Items listening on port3002
+2023-11-04T20:57:45.892Z - info: Express server for Items listening on port3002
+2023-11-04T20:57:48.518Z - info: Express server for Items listening on port3002
+2023-11-04T20:58:12.408Z - info: GET: /api/v1/items
+2023-11-04T20:58:12.451Z - info: Query items by undefined
+2023-11-04T20:59:13.308Z - info: Express server for Items listening on port3002
+2023-11-04T21:02:02.098Z - info: Express server for Items listening on port3002
+2023-11-04T21:02:06.016Z - info: Express server for Items listening on port3002
+2023-11-04T21:02:13.417Z - info: GET: /api/v1/items
+2023-11-04T21:02:13.550Z - info: Query items by undefined
+2023-11-04T21:03:10.153Z - info: GET: /api/v1/items
+2023-11-04T21:03:10.156Z - info: Query items by undefined
+2023-11-04T21:11:20.634Z - info: Express server for Items listening on port3002
+2023-11-04T21:11:29.662Z - info: GET: /api/v1/items
+2023-11-04T21:11:29.691Z - info: Query items by undefined
+2023-11-04T21:12:20.029Z - info: Express server for Items listening on port3002
+2023-11-04T21:12:25.212Z - info: GET: /api/v1/items
+2023-11-04T21:12:25.227Z - info: Query items by undefined
+2023-11-04T21:15:05.945Z - info: Express server for Items listening on port3002
+2023-11-04T21:15:48.150Z - info: Express server for Items listening on port3002
+2023-11-04T21:16:10.153Z - info: GET: /api/v1/items
+2023-11-04T21:16:10.172Z - info: Query items by undefined
+2023-11-04T21:19:34.689Z - info: Express server for Items listening on port3002
+2023-11-04T21:23:08.849Z - info: Express server for Items listening on port3002
+2023-11-04T21:24:00.475Z - info: Express server for Items listening on port3002
+2023-11-04T21:24:05.988Z - info: GET: /api/v1/items
+2023-11-04T21:24:06.004Z - info: Query items by undefined
+2023-11-04T21:25:00.930Z - info: Express server for Items listening on port3002
+2023-11-04T21:25:08.470Z - info: GET: /api/v1/items
+2023-11-04T21:25:08.491Z - info: Query items by undefined
+2023-11-04T21:26:53.917Z - info: Express server for Items listening on port3002
+2023-11-04T21:28:17.488Z - info: Express server for Items listening on port3002
+2023-11-04T21:28:26.011Z - info: GET: /api/v1/items
+2023-11-04T21:28:26.027Z - info: Query items by undefined
+2023-11-04T21:31:29.422Z - info: Express server for Items listening on port3002
+2023-11-04T21:31:43.982Z - info: Express server for Items listening on port3002
+2023-11-04T21:31:50.999Z - info: GET: /api/v1/items
+2023-11-04T21:31:51.017Z - info: Query items by undefined
+2023-11-04T21:35:02.711Z - info: Express server for Items listening on port3002
+2023-11-04T21:35:26.975Z - info: GET: /api/v1/items
+2023-11-04T21:35:27.108Z - info: Query items by undefined
+2023-11-04T21:36:14.206Z - info: GET: /api/v1/items
+2023-11-04T21:36:14.208Z - info: Query items by undefined
+2023-11-04T21:37:03.340Z - info: Express server for Items listening on port3002
+2023-11-04T21:38:28.998Z - info: Express server for Items listening on port3002
+2023-11-04T21:38:43.550Z - info: GET: /api/v1/items
+2023-11-04T21:38:43.571Z - info: Query items by undefined
+2023-11-04T21:39:23.143Z - info: Express server for Items listening on port3002
+2023-11-04T21:39:35.377Z - info: GET: /api/v1/items
+2023-11-04T21:39:35.400Z - info: Query items by undefined
+2023-11-04T21:42:09.442Z - info: Express server for Items listening on port3002
+2023-11-04T21:42:15.531Z - info: Express server for Items listening on port3002
+2023-11-04T21:43:03.025Z - info: Express server for Items listening on port3002
+2023-11-04T21:43:05.589Z - info: Express server for Items listening on port3002
+2023-11-04T21:43:06.946Z - info: Express server for Items listening on port3002
+2023-11-04T21:43:09.674Z - info: Express server for Items listening on port3002
+2023-11-04T21:43:11.195Z - info: Express server for Items listening on port3002
+2023-11-04T21:43:12.492Z - info: Express server for Items listening on port3002
+2023-11-04T21:43:25.998Z - info: Express server for Items listening on port3002
+2023-11-04T21:43:26.027Z - info: GET: /api/v1/items
+2023-11-04T21:43:26.045Z - info: Query items by undefined
+2023-11-04T21:44:00.628Z - info: Express server for Items listening on port3002
+2023-11-04T21:44:09.406Z - info: GET: /api/v1/items
+2023-11-04T21:44:09.422Z - info: Query items by undefined
+2023-11-04T21:56:05.102Z - info: GET: /api/v1/items
+2023-11-04T21:56:05.105Z - info: Query items by undefined
+2023-11-04T21:56:44.680Z - info: Express server for Items listening on port3002
+2023-11-04T21:56:53.910Z - info: GET: /api/v1/items
+2023-11-04T21:56:53.926Z - info: Query items by undefined
+2023-11-04T21:57:42.961Z - info: Express server for Items listening on port3002
+2023-11-04T21:57:46.994Z - info: Express server for Items listening on port3002
+2023-11-04T21:57:56.653Z - info: GET: /api/v1/items
+2023-11-04T21:57:56.670Z - info: Query items by undefined
+2023-11-04T21:58:43.690Z - info: Express server for Items listening on port3002
+2023-11-04T21:58:49.569Z - info: Express server for Items listening on port3002
+2023-11-04T21:58:56.754Z - info: Express server for Items listening on port3002
+2023-11-04T21:59:01.948Z - info: Express server for Items listening on port3002
+2023-11-04T21:59:11.573Z - info: Express server for Items listening on port3002
+2023-11-04T21:59:27.780Z - info: GET: /api/v1/items
+2023-11-04T21:59:27.797Z - info: Query items by undefined
+2023-11-04T21:59:41.910Z - info: Express server for Items listening on port3002
+2023-11-04T21:59:47.069Z - info: GET: /api/v1/items
+2023-11-04T21:59:47.091Z - info: Query items by undefined
+2023-11-04T22:00:06.613Z - info: Express server for Items listening on port3002
+2023-11-04T22:00:10.659Z - info: Express server for Items listening on port3002
+2023-11-04T22:00:14.954Z - info: Express server for Items listening on port3002
+2023-11-04T22:00:17.562Z - info: Express server for Items listening on port3002
+2023-11-04T22:05:12.485Z - info: Express server for Items listening on port3002
+2023-11-04T22:05:16.555Z - info: GET: /api/v1/items
+2023-11-04T22:05:16.573Z - info: Query items by undefined
+2023-11-04T22:06:16.689Z - info: Item created without photo by 1
+2023-11-04T22:06:23.599Z - info: GET: /api/v1/items
+2023-11-04T22:06:23.602Z - info: Query items by undefined
+2023-11-04T22:07:09.410Z - info: Express server for Items listening on port3002
+2023-11-04T22:07:30.250Z - info: GET: /api/v1/items
+2023-11-04T22:07:30.282Z - info: Query items by undefined
+2023-11-04T22:08:07.337Z - info: Express server for Items listening on port3002
+2023-11-04T22:08:08.045Z - info: Item created without photo by 1
+2023-11-04T22:08:18.628Z - info: GET: /api/v1/items
+2023-11-04T22:08:18.634Z - info: Query items by undefined
+2023-11-04T22:19:24.496Z - info: Express server for Items listening on port3002
+2023-11-04T22:19:38.091Z - info: Express server for Items listening on port3002
+2023-11-04T22:19:47.887Z - info: Express server for Items listening on port3002
+2023-11-04T22:19:50.170Z - info: GET: /api/v1/items
+2023-11-04T22:19:50.301Z - info: Query items by undefined
+2023-11-04T22:20:02.297Z - info: Item created without photo by 1
+2023-11-04T22:20:06.457Z - info: GET: /api/v1/items
+2023-11-04T22:20:06.462Z - info: Query items by undefined
+2023-11-04T22:20:53.062Z - info: Express server for Items listening on port3002
+2023-11-04T22:20:58.050Z - info: Express server for Items listening on port3002
+2023-11-04T22:21:01.661Z - info: Express server for Items listening on port3002
+2023-11-04T22:21:12.038Z - info: Express server for Items listening on port3002
+2023-11-04T22:21:29.756Z - info: Express server for Items listening on port3002
+2023-11-04T22:21:34.472Z - info: Express server for Items listening on port3002
+2023-11-04T22:21:38.300Z - info: Express server for Items listening on port3002
+2023-11-04T22:24:01.646Z - info: Express server for Items listening on port3002
+2023-11-04T22:26:29.817Z - info: PUT: /api/v1/items/:id
+2023-11-04T22:26:29.851Z - info: Item updated by undefined
+2023-11-04T22:26:39.950Z - info: GET: /api/v1/items
+2023-11-04T22:26:39.959Z - info: Query items by undefined
+2023-11-04T22:27:08.621Z - info: PUT: /api/v1/items/:id
+2023-11-04T22:27:08.634Z - info: Item updated by undefined
+2023-11-04T22:27:11.871Z - info: GET: /api/v1/items
+2023-11-04T22:27:11.875Z - info: Query items by undefined
+2023-11-04T22:27:38.478Z - info: PUT: /api/v1/items/:id
+2023-11-04T22:27:38.572Z - info: Item updated by undefined
+2023-11-04T22:27:44.142Z - info: GET: /api/v1/items
+2023-11-04T22:27:44.145Z - info: Query items by undefined
+2023-11-04T22:28:34.735Z - info: DELETE: /api/v1/items/:id
+2023-11-04T22:28:34.749Z - info: Item deleted by undefined
+2023-11-04T22:28:38.403Z - info: GET: /api/v1/items
+2023-11-04T22:28:38.406Z - info: Query items by undefined
+2023-11-04T22:30:24.698Z - info: Express server for Items listening on port3002
+2023-11-04T22:30:35.797Z - info: Express server for Items listening on port3002
+2023-11-04T22:30:39.604Z - info: GET: /api/v1/items
+2023-11-04T22:30:39.639Z - info: Query items by undefined
+2023-11-04T22:30:42.264Z - info: Item created without photo by undefined
+2023-11-04T22:30:48.849Z - info: GET: /api/v1/items
+2023-11-04T22:30:48.853Z - info: Query items by undefined
+2023-11-04T22:31:07.551Z - info: Express server for Items listening on port3002
+2023-11-04T22:31:12.135Z - info: Express server for Items listening on port3002
+2023-11-04T22:31:14.531Z - info: Express server for Items listening on port3002
+2023-11-04T22:31:49.941Z - info: Item created without photo by undefined
+2023-11-04T22:31:52.432Z - info: GET: /api/v1/items
+2023-11-04T22:31:52.536Z - info: Query items by undefined

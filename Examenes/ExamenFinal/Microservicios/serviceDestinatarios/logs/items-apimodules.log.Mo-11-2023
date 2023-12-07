@@ -1,0 +1,32 @@
+2023-11-06T21:04:50.305Z - info: Express server for Items listening on port3002
+2023-11-06T21:05:34.246Z - info: GET: /api/v1/items
+2023-11-06T21:05:34.272Z - info: Query items by undefined
+2023-11-06T21:06:19.856Z - info: Item created without photo by undefined
+2023-11-06T21:06:26.169Z - info: GET: /api/v1/items
+2023-11-06T21:06:26.172Z - info: Query items by undefined
+2023-11-06T21:07:12.853Z - info: Item created without photo by undefined
+2023-11-06T21:07:15.521Z - info: GET: /api/v1/items
+2023-11-06T21:07:15.526Z - info: Query items by undefined
+2023-11-06T21:10:23.733Z - info: Item created without photo by undefined
+2023-11-06T21:10:27.108Z - info: GET: /api/v1/items
+2023-11-06T21:10:27.111Z - info: Query items by undefined
+2023-11-06T21:10:55.324Z - info: PUT: /api/v1/items/:id
+2023-11-06T21:10:55.334Z - info: Item updated by undefined
+2023-11-06T21:10:58.141Z - info: GET: /api/v1/items
+2023-11-06T21:10:58.146Z - info: Query items by undefined
+2023-11-06T21:11:14.719Z - info: DELETE: /api/v1/items/:id
+2023-11-06T21:11:14.732Z - info: Item deleted by undefined
+2023-11-06T21:11:18.749Z - info: GET: /api/v1/items
+2023-11-06T21:11:18.751Z - info: Query items by undefined
+2023-11-06T21:16:16.657Z - info: Express server for Items listening on port3002
+2023-11-06T21:16:28.120Z - info: Item created without photo by undefined
+2023-11-06T21:16:30.820Z - info: GET: /api/v1/items
+2023-11-06T21:16:30.829Z - info: Query items by undefined
+2023-11-06T21:16:48.860Z - info: Express server for Items listening on port3002
+2023-11-06T21:16:58.588Z - info: Express server for Items listening on port3002
+2023-11-06T21:17:23.569Z - info: Item created without photo by undefined
+2023-11-06T21:17:26.723Z - info: GET: /api/v1/items
+2023-11-06T21:17:26.731Z - info: Query items by undefined
+2023-11-06T21:19:27.150Z - info: Express server for Items listening on port3002
+2023-11-06T21:27:33.783Z - info: GET: /api/v1/items
+2023-11-06T21:27:33.946Z - info: Query items by undefined
